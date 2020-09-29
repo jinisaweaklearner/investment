@@ -80,4 +80,6 @@ A custodian or custodian bank is a financial institution that holds customers' s
 ### PDS Product disclosure statement
 A document that financial service providers must provide to you when they recommend or offer a financial product. It must include information about the product’s key features, fees, commissions, benefits, risks and the complaints handling procedure.
 
+### Rebalancing
+Rebalancing is the process of realigning the weightings of a portfolio of assets. Rebalancing involves periodically buying or selling assets in a portfolio to maintain an original or desired level of asset allocation or risk.
 
