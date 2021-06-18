@@ -1,4 +1,4 @@
-# Finance Domian Knowledge
+### Resource
 
 - yahoo finance 3rd part package https://github.com/ranaroussi/yfinance
 - Ran Aroussi blog: https://aroussi.com/
